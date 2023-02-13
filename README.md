@@ -27,5 +27,5 @@ Aplicação para testar e demonstrar a usabilidade de propriedades css referente
 ---
 
 <div align="center">
-  Desenvolvido com ❤ por <a target="_blank" rel="noopener" href="https://www.ernane.dev/">Ernane Ferreira</a>. 👋🏻<br/> Insentivado e idealizado por <a target="_blank" rel="noopener" href="https://www.seguroviagem.srv.br/">Real Seguro Viagem</a>. 💜
+  Desenvolvido com ❤ por <a target="_blank" rel="noopener" href="https://www.ernane.dev/">Ernane Ferreira</a>. 👋🏻<br/> Incentivado e idealizado por <a target="_blank" rel="noopener" href="https://www.seguroviagem.srv.br/">Real Seguro Viagem</a>. 💜
 </div>
